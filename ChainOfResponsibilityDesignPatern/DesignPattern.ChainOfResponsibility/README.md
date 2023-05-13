@@ -16,5 +16,3 @@ Bu projede Chain Responsibility kavramı bir banka müşterisinin kredi çekmek 
 Data olarak MSSQL migration ile adımlar dataya yazılmaktadır. 
 
 
-![image](https://github.com/ferhanabaci/DesignPatterns/assets/84642053/2b244c70-7eca-4c9a-b804-ae98ccd07c91)
-
