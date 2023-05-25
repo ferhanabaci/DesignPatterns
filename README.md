@@ -14,8 +14,8 @@ Bu repoda 11 farklı tasarım desenini farklı senaryolar ile ele alarak ögrend
 
 ## Hangi Tasarım Desenleri Olucak ?
 
-# Chain Of Responsibility Design Pattern
-# CQRS Design Pattern
+### Chain Of Responsibility Design Pattern
+### CQRS Design Pattern
 # Template Method Design Pattern
 # Observer Design Pattern
 # Unit Of Work Design Pattern
