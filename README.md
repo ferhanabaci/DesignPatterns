@@ -16,15 +16,15 @@ Bu repoda 11 farklı tasarım desenini farklı senaryolar ile ele alarak ögrend
 
 ### Chain Of Responsibility Design Pattern
 ### CQRS Design Pattern
-# Template Method Design Pattern
-# Observer Design Pattern
-# Unit Of Work Design Pattern
-# Repository Design Pattern
-# Composite Design Pattern
-# Mediator Design Pattern
-# Iterator Design Pattern
-# Facade Design Pattern
-# Decorator Design Pattern
+### Template Method Design Pattern
+### Observer Design Pattern
+### Unit Of Work Design Pattern
+### Repository Design Pattern
+### Composite Design Pattern
+### Mediator Design Pattern
+### Iterator Design Pattern
+### Facade Design Pattern
+### Decorator Design Pattern
 
 ## Kullanıcalak Teknik 
 
