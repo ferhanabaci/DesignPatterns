@@ -10,7 +10,7 @@ Bu desenleri kullanmak, yazılımınızın daha iyi çalışmasını ve gelişti
 
 ## Bu Reponun amacı nedir ?
 
-Bu repoda 11 farklı tasarım desenini farklı senaryolar ile ele alarak ögrendiklerimi farklı projelerle bu repoda toplamak istiyorum.
+Bu repoda 11 farklı tasarım desenini farklı senaryolar ile ele alarak ögrendiklerimi farklı projelerle bu repoda toplamak.
 
 ## Hangi Tasarım Desenleri Olucak ?
 
