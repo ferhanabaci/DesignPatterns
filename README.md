@@ -14,7 +14,7 @@ Bu repoda 11 farklı tasarım desenini farklı senaryolar ile ele alarak ögrend
 
 ## Hangi Tasarım Desenleri Olucak ?
 
-### Chain Of Responsibility Design Pattern
+###  [Chain Of Responsibility Design Pattern]([https://www.google.com](https://github.com/ferhanabaci/DesignPatterns/tree/master/ChainOfResponsibilityDesignPatern/DesignPattern.ChainOfResponsibility))
 ### CQRS Design Pattern
 ### Template Method Design Pattern
 ### Observer Design Pattern
