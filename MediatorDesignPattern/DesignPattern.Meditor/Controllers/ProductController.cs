@@ -18,5 +18,11 @@ namespace DesignPattern.Meditor.Controllers
             var values = await _mediator.Send(new GetAllProductQuery());
             return View(values);
         }
+
+        public async Task<IActionResult> GetProduct(int id)
+        {
+            var values = await _mediator.Send(new GetProductByIDQuery(id));
+            return View(values);
+        }
     }
 }
