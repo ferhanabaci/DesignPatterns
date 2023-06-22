@@ -1,4 +1,5 @@
-﻿using DesignPattern.Meditor.MediatorPattern.Queries;
+﻿using DesignPattern.Meditor.MediatorPattern.Commands;
+using DesignPattern.Meditor.MediatorPattern.Queries;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
@@ -23,6 +24,11 @@ namespace DesignPattern.Meditor.Controllers
         {
             var values = await _mediator.Send(new GetProductByIDQuery(id));
             return View(values);
+        }
+        public async Task<IActionResult> RemoveProduct(int id)
+        {
+            await _mediator.Send(new RemoveProductCommand(id));
+            return RedirectToAction("Index");
         }
     }
 }

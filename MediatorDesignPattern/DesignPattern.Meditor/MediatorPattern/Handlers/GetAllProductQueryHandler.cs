@@ -1,4 +1,4 @@
-﻿using DesignPattern.Meditor.DAL;
+﻿    using DesignPattern.Meditor.DAL;
 using DesignPattern.Meditor.MediatorPattern.Queries;
 using DesignPattern.Meditor.MediatorPattern.Results;
 using MediatR;
